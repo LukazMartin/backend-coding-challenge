@@ -1,3 +1,13 @@
+In order to test the endpoints first run the script src/load_data_script.py. 
+Then in src/views.py there are 3 endpoints.
+    · Filtering
+    · Sorting
+    · Pagination
+
+This is part of a coding challenge for Aspaara AG by ldoehne@uoc.edu
+Original autor: sundara.amancharla@aspaara.com
+
+
 # Backend Coding Challenge
 
 At aspaara a squad of superheroes works on giving superpowers to planning teams.
